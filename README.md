@@ -15,7 +15,6 @@ Just download the master zip and drop the contents into your cura install folder
 <ol>
 <li>Install the MKS Wifi Plugin on the marketplace or here https://github.com/Jeredian/mks-wifi-plugin</li>
 <li>Then after adding the printer click setting>printers>manage printers </li>
-<li>Then after adding the printer click setting>printers>manage printers </li>
 <li>Click the MKS Wifi Connection </li>
 <li>Click add and when it promps for an IP address put 127.0.0.1</li>
 <li>Then click image settings then click default</li>
