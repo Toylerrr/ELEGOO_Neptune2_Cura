@@ -33,8 +33,8 @@ Goto:
 <li>Linux: ~/.local/share/cura/plugins/MKSWifiPlugin/MKSWifiPlugin/</li>
 </ul>
   
-Open the plugin.json file 
-Find the line that says maximum_cura_version
-Change that to "4.10" (or whatever is current)
-Save and restart Cura.
+Open the plugin.json file <br>
+Find the line that says maximum_cura_version<br>
+Change that to "4.10" (or whatever is current)<br>
+Save and restart Cura<br>
 
