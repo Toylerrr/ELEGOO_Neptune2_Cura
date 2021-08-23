@@ -34,5 +34,6 @@ Goto:
 <li>macOS: /Users//Application Support/cura/plugins/MKSWifiPlugin/MKSWifiPlugin//</li>
 <li>Linux: ~/.local/share/cura/plugins/MKSWifiPlugin/MKSWifiPlugin/</li>
 <ul><br>
+  
 Then open the plugin.json file and change the value of "maximum_cura_version" to "4.10" (or whatever is current). Save and restart Cura.
 
