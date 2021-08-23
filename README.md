@@ -24,3 +24,12 @@ Just download the master zip and drop the contents into your cura install folder
 ![Setting Picture](https://i.imgur.com/THrXDxr.png)
 
 
+
+## How to get MKS Wifi to show up when outdated
+
+
+Goto Windows: %AppData%\cura\<version>\plugins\MKSWifiPlugin\MKSWifiPlugin
+macOS: /Users//Application Support/cura/plugins/MKSWifiPlugin/MKSWifiPlugin//
+Linux: ~/.local/share/cura/plugins/MKSWifiPlugin/MKSWifiPlugin/
+pen the plugin.json file and change the value of "maximum_cura_version" to "4.10" (or whatever is current). Save and restart Cura.
+
