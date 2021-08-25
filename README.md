@@ -10,6 +10,13 @@ This is the Cura profile that was made by ELEGOO and I modified it to work with 
 ## How to install
 Just download the master zip and drop the contents into your cura install folder or Appdata
 
+## Better Profiles
+Just-Trey made some printer profiles for this machene deffinition. 
+
+Those can be found here: https://github.com/just-trey/elegoo_neptune_2_CHEP_cura_profiles
+
+
+
 ## How to get icons on print screen
 
 <ol>
@@ -21,7 +28,6 @@ Just download the master zip and drop the contents into your cura install folder
 </ol>
 
 ![Setting Picture](https://i.imgur.com/THrXDxr.png)
-
 
 
 ## How to get MKS Wifi to show up when outdated
