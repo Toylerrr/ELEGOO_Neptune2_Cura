@@ -17,7 +17,8 @@ Just-Trey made some printer profiles for this machene deffinition.
 
 Those can be found here: https://github.com/just-trey/elegoo_neptune_2_CHEP_cura_profiles
 
-
+## Alternate Bed Mesh
+ Merrik over on Thingiverse made an alternate bed mesh you can find that here: https://www.thingiverse.com/thing:5141570
 
 ## How to get icons on print screen
 
