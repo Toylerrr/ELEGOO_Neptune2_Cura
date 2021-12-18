@@ -20,17 +20,7 @@ Those can be found here: https://github.com/just-trey/elegoo_neptune_2_CHEP_cura
 ## Alternate Bed Mesh
  Merrik over on Thingiverse made an alternate bed mesh you can find that here: https://www.thingiverse.com/thing:5141570
 
-## How to get icons on print screen
-
-<ol>
-<li>Install the MKS Wifi Plugin on the marketplace or here https://github.com/Jeredian/mks-wifi-plugin</li>
-<li>Then after adding the printer click setting>printers>manage printers </li>
-<li>Click the MKS Wifi Connection </li>
-<li>Click add and when it promps for an IP address put 127.0.0.1</li>
-<li>Then click image settings then click default</li>
-</ol>
-
-![Setting Picture](https://i.imgur.com/THrXDxr.png)
+## [How to get icons on print screen] (https://github.com/Toylerrr/ELEGOO_Neptune2_Cura/wiki/How-to-get-icons-on-print-screen)
 
 
 
