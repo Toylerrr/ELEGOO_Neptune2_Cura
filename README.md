@@ -13,7 +13,7 @@ This is the Cura profile that was made by ELEGOO and I modified it to work with 
 <b>Easy</b>: Download the plugin version from the [Releases](https://github.com/Toylerrr/ELEGOO_Neptune2_Cura/releases) section and drag and drop into the cura windows
 
 ## Better Profiles
-Just-Trey made some printer profiles for this machene deffinition. 
+Just-Trey made some printer profiles for this machine definition. 
 
 Those can be found here: https://github.com/just-trey/elegoo_neptune_2_CHEP_cura_profiles
 
