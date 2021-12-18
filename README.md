@@ -33,17 +33,5 @@ Those can be found here: https://github.com/just-trey/elegoo_neptune_2_CHEP_cura
 ![Setting Picture](https://i.imgur.com/THrXDxr.png)
 
 
-## How to get MKS Wifi to show up when outdated
 
-Goto:
-<ul>
-<li>Windows: %AppData%\cura\<version>\plugins\MKSWifiPlugin\MKSWifiPlugin</li>
-<li>macOS: /Users//Application Support/cura/plugins/MKSWifiPlugin/MKSWifiPlugin//</li>
-<li>Linux: ~/.local/share/cura/plugins/MKSWifiPlugin/MKSWifiPlugin/</li>
-</ul>
-  
-Open the plugin.json file <br>
-Find the line that says maximum_cura_version<br>
-Change that to "4.10" (or whatever is current)<br>
-Save and restart Cura<br>
 
