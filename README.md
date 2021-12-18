@@ -20,7 +20,7 @@ Those can be found here: https://github.com/just-trey/elegoo_neptune_2_CHEP_cura
 ## Alternate Bed Mesh
  Merrik over on Thingiverse made an alternate bed mesh you can find that here: https://www.thingiverse.com/thing:5141570
 
-## [How to get icons on print screen] (https://github.com/Toylerrr/ELEGOO_Neptune2_Cura/wiki/How-to-get-icons-on-print-screen)
+## [How to get icons on print screen](https://github.com/Toylerrr/ELEGOO_Neptune2_Cura/wiki/How-to-get-icons-on-print-screen)
 
 
 
