@@ -12,7 +12,7 @@
         "platform_offset": [0,0,0],
         "machine_extruder_trains":
         {
-            "0": "elgoo_neptune2_extruder_0"
+            "0": "elegoo_neptune2_extruder_0"
         },
         "has_machine_quality": true,
         "preferred_material": "generic_pla",
