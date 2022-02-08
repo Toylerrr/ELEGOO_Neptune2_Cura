@@ -1,5 +1,5 @@
 {
-    "name": "Neptune 2",
+    "name": "Neptune 2D",
     "version": 2,
     "inherits": "fdmprinter",
     "metadata": {
@@ -13,7 +13,8 @@
         "file_formats": "text/x-gcode",
         "machine_extruder_trains":
         {
-            "0": "elegoo_neptune2_extruder_0"
+            "0": "elegoo_neptune2_extruder_0",
+            "1": "elegoo_neptune2_extruder_1"
         },
         "preferred_material": "generic_pla",
         "exclude_materials": [
@@ -120,7 +121,8 @@
     },
 
     "overrides": {
-        "machine_name": {"default_value": "ELEGOO Neptune 2"},
+        "machine_name": {"default_value": "ELEGOO Neptune 2D"},
+        "machine_extruder_count": {"default_value": 2},
         "machine_width": {"default_value": 235},
         "machine_height": {"default_value": 260},
         "machine_depth": {"default_value": 235},
