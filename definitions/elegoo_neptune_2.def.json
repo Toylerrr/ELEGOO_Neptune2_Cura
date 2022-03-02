@@ -126,6 +126,8 @@
         "machine_depth": {"default_value": 235},
         "machine_heated_bed": {"default_value": true},
         "material_diameter": { "default_value": 1.75 },
+		"machine_head_with_fans_polygon": {"value": [[-30, 35], [-30, -10], [25, 35], [25, -10]]},
+		"gantry_height": {"value": 30},
         "speed_print": { "value": 60.0 } ,
         "z_seam_type":{"default_value": "back"},
         "z_seam_corner":{"default_value": "z_seam_corner_weighted"},
