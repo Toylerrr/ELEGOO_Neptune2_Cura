@@ -32,13 +32,44 @@
         "machine_extruders_share_nozzle": {"default_value": true},
         "machine_always_write_active_tool": {"default_value": true},
         "prime_blob_enable": {"default_value": false},
-    "prime_tower_enable": {"default_value": true},
-    "prime_tower_size": {"default_value": 30},
-    "prime_tower_min_volume": {"default_value": 90},
-    "speed_print": { "value": 60.0 },
+        "prime_tower_enable": {"default_value": true},
+        "prime_tower_size": {"default_value": 30},
+        "prime_tower_min_volume":{ "value": "(layer_height) * (prime_tower_size / 2)**2 * 3 * 0.5 "},
+        "prime_tower_wipe_enabled":{"default_value": false},
+        "speed_print": { "value": 60.0 },
         "z_seam_type":{"default_value": "back"},
         "z_seam_corner":{"default_value": "z_seam_corner_weighted"},
-        "material_standby_temperature":{"default_value": 200,"settable_per_extruder": false},
+
+          "material_print_temperature":
+          {   "value": "default_material_print_temperature",
+              "resolve": "max(extruderValues('material_print_temperature'))",
+              "settable_per_extruder": false
+          },
+          "material_print_temperature_layer_0":
+          {
+              "value": "material_print_temperature",
+              "resolve": "max(extruderValues('material_print_temperature'))",
+              "settable_per_extruder": false
+          },
+          "material_initial_print_temperature":
+          {
+              "value": "max(-273.15, material_print_temperature)",
+              "resolve": "max(extruderValues('material_print_temperature'))",
+              "settable_per_extruder": false
+          },
+          "material_final_print_temperature":
+          {
+              "value": "max(-273.15, material_print_temperature)",
+              "resolve": "max(extruderValues('material_print_temperature'))",
+              "settable_per_extruder": false
+          },
+          "material_standby_temperature":
+          {   "value": "max(-273.15, material_print_temperature)",
+              "resolve": "max(extruderValues('material_print_temperature'))",
+              "settable_per_extruder": false 
+          }
+
+        
         "retraction_enable":{"default_value": true},
         "retraction_amount":{"default_value": 5},
         "retraction_speed":{"default_value": 70},
