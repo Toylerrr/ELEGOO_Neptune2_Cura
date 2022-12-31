@@ -38,8 +38,3 @@ From Trey Wentz:
 "My son, Tyler Wentz, passed away after having a bodysurfing accident in 2015. We established a 501(c) (3) nonprofit organization to raise money to provide two scholarships in our community to deserving students. We are 100% volunteer-driven, and 100% of donations (less the 2.7% Square Processing Fee) will go straight towards supporting the scholarships. "
 
 You can learn more about the Tyler Wentz Memorial Fund fund at: https://twentz.com/ 
-
-
-## File Repository
-https://unknownwebsite.tk/Elegoo%20Neptune/
-
